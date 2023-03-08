@@ -1,0 +1,16 @@
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.exe
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.deps.json
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.runtimeconfig.json
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.runtimeconfig.dev.json
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.dll
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\ref\InverterString.dll
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\bin\Debug\net5.0\InverterString.pdb
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.csproj.AssemblyReference.cache
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.AssemblyInfoInputs.cache
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.AssemblyInfo.cs
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.csproj.CoreCompileInputs.cache
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.dll
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\ref\InverterString.dll
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.pdb
+C:\Users\dhfca\Desktop\ResolucaoExerciciosTarget\InverterString\InverterString\obj\Debug\net5.0\InverterString.genruntimeconfig.cache
